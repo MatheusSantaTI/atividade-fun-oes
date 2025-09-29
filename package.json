@@ -1,14 +1,5 @@
 {
-  "name": "atividade-2008",
-  "version": "1.0.0",
-  "main": "funcoes.js",
-  "scripts": {
-    "test": "jest"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "jest": "^30.0.5"
-  }}
+  "devDependencies": {
+    "cypress": "^15.2.0"
+  }
+}
